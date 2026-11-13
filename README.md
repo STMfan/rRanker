@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> [原项目](https://github.com/kckc7887/rRanker)现已停更，本仓库为该项目停更前的一次预料外的未完成的功能更新。
+>
+> 原项目作者暂未确认原项目是否会恢复运营。
+>
+> 因此，经过原作者授权，本人计划另起炉灶，重新创建一个新的项目名为**“NeoRanker”**。以承接运营该项目的部分功能。火热开发中，如果有参与意向欢迎联系。
+>
+> 以下为原项目README.md，未做更改，保留原貌
+
 <div align="center">
 
 ![rRanker](./assets/images/banner.jpg)
